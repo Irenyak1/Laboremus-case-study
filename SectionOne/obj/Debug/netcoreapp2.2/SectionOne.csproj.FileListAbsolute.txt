@@ -1,0 +1,11 @@
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/bin/Debug/netcoreapp2.2/SectionOne.deps.json
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/bin/Debug/netcoreapp2.2/SectionOne.runtimeconfig.json
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/bin/Debug/netcoreapp2.2/SectionOne.runtimeconfig.dev.json
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/bin/Debug/netcoreapp2.2/SectionOne.dll
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/bin/Debug/netcoreapp2.2/SectionOne.pdb
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/obj/Debug/netcoreapp2.2/SectionOne.csprojAssemblyReference.cache
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/obj/Debug/netcoreapp2.2/SectionOne.csproj.CoreCompileInputs.cache
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/obj/Debug/netcoreapp2.2/SectionOne.AssemblyInfoInputs.cache
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/obj/Debug/netcoreapp2.2/SectionOne.AssemblyInfo.cs
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/obj/Debug/netcoreapp2.2/SectionOne.dll
+/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/obj/Debug/netcoreapp2.2/SectionOne.pdb

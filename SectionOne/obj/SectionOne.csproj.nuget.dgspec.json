@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/SectionOne.csproj": {}
+  },
+  "projects": {
+    "/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/SectionOne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/SectionOne.csproj",
+        "projectName": "SectionOne",
+        "projectPath": "/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/SectionOne.csproj",
+        "packagesPath": "/home/irynah/.nuget/packages/",
+        "outputPath": "/media/irynah/DATA/Laboremus/Laboremus-case-study/SectionOne/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/irynah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
