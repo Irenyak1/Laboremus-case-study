@@ -10,7 +10,7 @@ prints the total number of distinct values in array A on the console.
 ##  Reproducing the App
 ### If you want to contribute 
 * Fork the repo at https://github.com/Irenyak1/Laboremus-case-study.git
-* In the terminal run git clone https://github.com/<your-username>/Laboremus-case-study.git
+* In the terminal run git clone https://github.com/your-username/Laboremus-case-study.git
 ### If You Just Need to Test The App
 * In the terminal run git clone https://github.com/Irenyak1/Laboremus-case-study.git
 
