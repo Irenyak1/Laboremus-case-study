@@ -4,9 +4,6 @@ prints the total number of distinct values in array A on the console.
 
 ##  Technology stacks
 * C# - Dotnet 2.2.402
-* Javascript
-* HTML
-* CSS
 ##  Reproducing the App
 ### If you want to contribute 
 * Fork the repo at https://github.com/Irenyak1/Laboremus-case-study.git
